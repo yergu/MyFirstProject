@@ -8,3 +8,9 @@ My first Change feature branch
 My first Change feature branch
 My first Change feature branchMy first Change feature branch
 My first Change feature branch
+
+fatal: The current branch feature has no upstream branch.
+
+fatal: The current branch feature has no upstream branch.
+
+fatal: The current branch feature has no upstream branch.
