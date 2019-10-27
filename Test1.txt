@@ -1,0 +1,20 @@
+This is my first giup file
+This is my first giup file
+This is my first giup file
+This is my first giup file
+This is my first giup fileThis is my first giup file
+First change on branch
+My first Change feature branch
+My first Change feature branch
+My first Change feature branchMy first Change feature branch
+My first Change feature branch
+
+fatal: The current branch feature has no upstream branch.
+
+fatal: The current branch feature has no upstream branch.
+
+fatal: The current branch feature has no upstream branch
+
+This is my first giup file
+I am adding for the second time 
+This is my last update
