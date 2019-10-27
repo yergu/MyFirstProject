@@ -13,4 +13,6 @@ fatal: The current branch feature has no upstream branch.
 
 fatal: The current branch feature has no upstream branch.
 
-fatal: The current branch feature has no upstream branch.
+fatal: The current branch feature has no upstream branch
+
+This is my first giup file
