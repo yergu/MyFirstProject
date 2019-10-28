@@ -1,7 +1,6 @@
 
 fatal: The current branch feature has no upstream branch
 
-This is my first giup file
-I am adding for the second time 
+This is my first giup file the second time 
 This is my last update
 October 28 Edit
